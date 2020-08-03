@@ -1,6 +1,6 @@
   Welcome to my github profile! 🥳
 
-I'm a Front-end web developer from Colombia, passionate about learning and teaching.
+I'm a Front-end web developer from Chile, passionate about learning.
 
 ⚡️Skills
 ✓  HTML
