@@ -1,12 +1,16 @@
   Welcome to my github profile! 🥳
 
-I'm a Front-end web developer from Chile, passionate about learning.
+Soy Roberto Vera tengo 28 años y me apasiona el desarrollo con nuevas tecnologías.
 
 ⚡️Skills
 ✓  HTML
 ✓  CSS
 ✓  Javascript
 ✓  VueJS
-✓  NuxtJS
 ✓  NodeJS
-✓  PHP
+✓  Bootstrap
+✓  React.js
+✓  Fluent Ui
+✓  Material Ui
+
+
